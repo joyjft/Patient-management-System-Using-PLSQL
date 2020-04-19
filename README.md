@@ -1,3 +1,3 @@
 # Patient-management-System-Using-PLSQL
 
-Please read 'ReadMe.pdf' file. You will find it in this repo.
+Please read 'ReadMe.pdf' file for the details. You will find it in this repo.
